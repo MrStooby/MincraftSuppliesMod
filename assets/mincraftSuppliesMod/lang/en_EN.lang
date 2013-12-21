@@ -1,0 +1,77 @@
+tile.SlabClothDark.Black.name=Black Cloth Slab
+tile.SlabClothDark.Blue.name=Blue Cloth Slab
+tile.SlabClothDark.Cyan.name=Cyan Cloth Slab
+tile.SlabClothDark.Gray.name=Gray Cloth Slab
+tile.SlabClothDark.Green.name=Green Cloth Slab
+tile.SlabClothDark.Brown.name=Brown Cloth Slab
+tile.SlabClothDark.LBlue.name=Light Blue Cloth Slab
+tile.SlabClothBright.LGray.name=Light Gray Cloth Slab
+tile.SlabClothBright.Lime.name=Lime Cloth Slab
+tile.SlabClothBright.Magenta.name=Magenta Cloth Slab
+tile.SlabClothBright.Orange.name=Orange Cloth Slab
+tile.SlabClothBright.Pink.name=Pink Cloth Slab
+tile.SlabClothDark.Purple.name=Purple Cloth Slab
+tile.SlabClothBright.Red.name=Red Cloth Slab
+tile.SlabClothBright.White.name=White Cloth Slab
+tile.SlabClothBright.Yellow.name=Yellow Cloth Slab
+
+tile.SlabClayDark.Black.name=Black Stained Clay
+tile.SlabClayDark.Blue.name=Blue Stained Clay
+tile.SlabClayDark.Cyan.name=Cyan Stained Clay
+tile.SlabClayDark.Gray.name=Gray Stained Clay
+tile.SlabClayDark.Green.name=Green Stained Clay
+tile.SlabClayDark.Brown.name=Brown Stained Clay
+tile.SlabClayDark.LBlue.name=Light Blue Stained Clay
+tile.SlabClayBright.LGray.name=Light Gray Stained Clay
+tile.SlabClayBright.Lime.name=Lime Stained Clay
+tile.SlabClayBright.Magenta.name=Magenta Stained Clay
+tile.SlabClayBright.Orange.name=Orange Stained Clay
+tile.SlabClayBright.Pink.name=Pink Stained Clay
+tile.SlabClayDark.Purple.name=Purple Stained Clay
+tile.SlabClayBright.Red.name=Red Stained Clay
+tile.SlabClayBright.White.name=White Stained Clay
+tile.SlabClayBright.Yellow.name=Yellow Stained Clay
+
+tile.stairsWoodOak.name=Oak Wood Stairs
+tile.stairsWoodSpruce.name=Spruce Wood Stairs
+
+tile.stairsIron.name=Iron Stairs
+tile.stairsGold.name=Gold Strairs
+
+tile.stairsClothWhite.name=White Cloth Stairs
+tile.stairsClothOrange.name=Orange Cloth Stairs
+tile.stairsClothMagenta.name=Magenta Cloth Stairs
+tile.stairsClothLBlue.name=Light Blue Cloth Stairs
+tile.stairsClothYellow.name=Yellow Cloth Stairs
+tile.stairsClothLime.name=Lime Cloth Stairs
+tile.stairsClothPink.name=Pink Cloth Stairs
+tile.stairsClothGray.name=Gray Cloth Stairs
+tile.stairsClothLGray.name=Light Gray Cloth Stairs
+tile.stairsClothCyan.name=Cyan Cloth Stairs
+tile.stairsClothPurple.name=Purple Cloth Stairs
+tile.stairsClothBlue.name=Blue Cloth Stairs
+tile.stairsClothBrown.name=Brown Cloth Stairs
+tile.stairsClothGreen.name=Green Cloth Stairs
+tile.stairsClothRed.name=Red Cloth Stairs
+tile.stairsClothBlack.name=Black Cloth Stairs
+
+tile.stairsClayWhite.name=White Stained Clay Stairs
+tile.stairsClayBrown.name=Brown Stained Clay Stairs
+tile.stairsClayOrange.name=Orange Stained Clay Stairs
+tile.stairsClayMagenta.name=Magenta Stained Clay Stairs
+tile.stairsClayLBlue.name=Light Blue Stained Clay Stairs
+tile.stairsClayYellow.name=Yellow Stained Clay Stairs
+tile.stairsClayLime.name=Lime Stained Clay Stairs
+tile.stairsClayPink.name=Pink Stained Clay Stairs
+tile.stairsClayGray.name=Gray Stained Clay Stairs
+tile.stairsClayLGray.name=Light Gray Stained Clay Stairs
+tile.stairsClayCyan.name=Cyan Stained Clay Stairs
+tile.stairsClayPurple.name=Purple Stained Clay Stairs
+tile.stairsClayBlue.name=Blue Stained Clay Stairs
+tile.stairsClayGreen.name=Green Stained Clay Stairs
+tile.stairsClayRed.name=Red Stained Clay Stairs
+tile.stairsClayBlack.name=Black Stained Clay Stairs
+
+tile.stoneBrickWall.default.name=Stone Bricks Wall
+tile.stoneBrickWall.mossy.name=Mossy Stone Bricks Wall
+tile.stoneBrickWall.cracked.name=Cracked Stone Bricks Wall
